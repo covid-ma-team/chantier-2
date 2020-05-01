@@ -1,0 +1,2 @@
+# ToDO :
+ - Improve performance of spacial zones detection with POSTGIS (postgres wrapper)
