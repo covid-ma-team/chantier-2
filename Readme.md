@@ -23,3 +23,8 @@ Pour la granularité, dans le cas de détection des foyers à travers les zones 
 
 Pour la granularité, dans le cas de catégorisation des actions à mener pour chaque région, une granularité par commune autour d’un hôpital pourrait peut être pertinente.
 
+## Contributions : 
+
+Please check the `TODOs` file and see if you can work on any task there.
+
+If you will, please do it in a separate branch for that specific task, and then make a pull request !
