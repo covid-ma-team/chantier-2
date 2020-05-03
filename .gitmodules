@@ -1,0 +1,3 @@
+[submodule "morocco.geojson"]
+	path = morocco.geojson
+	url = https://github.com/IhabBendidi/morocco.geojson.git
